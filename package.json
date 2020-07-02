@@ -1,0 +1,36 @@
+{
+    "name": "vscode-design-in-browser-pack",
+    "displayName": "vscode-design-in-browser-pack",
+    "description": "A collection of best-in-class extensions for designing in the browser. Aimed at designers. Turns VSCode into an Integrated Design Environment.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "abusaidm.html-snippets", 
+        "BillDietrich.linkcheckerhtml", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "deerawan.vscode-faker", 
+        "donjayamanne.githistory", 
+        "harehare.textusm", 
+        "hdg.live-html-previewer", 
+        "hediet.vscode-drawio",   
+        "idleberg.icon-fonts", 
+        "JakeWilson.vscode-placeholder-images", 
+        "kisstkondoros.vscode-gutter-preview", 
+        "koppt.vscode-view-in-browser", 
+        "mkaufman.HTMLHint", 
+        "ms-vsliveshare.vsliveshare", 
+        "oderwat.indent-rainbow", 
+        "raathigeshan.fabulous", 
+        "searKing.preview-vscode",  
+        "sporiley.css-auto-prefix", 
+        "streetsidesoftware.code-spell-checker", 
+        "tomoyukim.vscode-mermaid-editor", 
+        "yuichinukiyama.vscode-preview-server"
+    ]
+}
