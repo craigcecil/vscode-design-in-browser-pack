@@ -1,26 +1,46 @@
 {
     "name": "vscode-design-in-browser-pack",
-    "displayName": "vscode-design-in-browser-pack",
+    "displayName": "Design in the Browser Extension Pack",
     "description": "A collection of best-in-class extensions for designing in the browser. Aimed at designers. Turns VSCode into an Integrated Design Environment.",
     "version": "0.0.1",
+    "publisher": "Craig Cecil",
+    "author": {
+        "name": "Craig Cecil"
+    },
     "engines": {
-        "vscode": "^1.46.0"
+        "vscode": "^1.45.0"
     },
     "categories": [
         "Extension Packs"
     ],
+    "icon": "https://www.github.com/craigcecil/vscode-design-in-browser-pack/images/icon.png",
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "bugs": {
+        "url": "https://www.github.com/craigcecil/vscode-design-in-browser-pack/LICENSE.txt",
+        "email": "craig@craigcecil.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/craigcecil/vscode-design-in-browser-pack"
+    },
+    "homepage": "",
     "extensionPack": [ 
+        "4tron.semantic-ui-snippets",
         "abusaidm.html-snippets", 
         "BillDietrich.linkcheckerhtml", 
         "christian-kohler.path-intellisense", 
-        "CoenraadS.bracket-pair-colorizer", 
         "deerawan.vscode-faker", 
         "donjayamanne.githistory", 
         "harehare.textusm", 
         "hdg.live-html-previewer", 
         "hediet.vscode-drawio",   
         "idleberg.icon-fonts", 
-        "JakeWilson.vscode-placeholder-images", 
+        "JakeWilson.vscode-placeholder-images",
+        "Keno.uikit-3-snippets", 
         "kisstkondoros.vscode-gutter-preview", 
         "koppt.vscode-view-in-browser", 
         "mkaufman.HTMLHint", 
@@ -28,9 +48,15 @@
         "oderwat.indent-rainbow", 
         "raathigeshan.fabulous", 
         "searKing.preview-vscode",  
+        "sivarajanraju.vs-code-office-ui-fabric",
         "sporiley.css-auto-prefix", 
         "streetsidesoftware.code-spell-checker", 
         "tomoyukim.vscode-mermaid-editor", 
-        "yuichinukiyama.vscode-preview-server"
+        "yuichinukiyama.vscode-preview-server",
+        "thekalinga.bootstrap4-vscode",
+        "wcwhitehead.bootstrap-3-snippets",
+        "eventyret.bootstrap-4-cdn-snippet",
+        "demijollamaxime.bulma",
+        "leninp.materialize-snippets"
     ]
 }
