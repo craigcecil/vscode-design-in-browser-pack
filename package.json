@@ -13,7 +13,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "icon": "https://www.github.com/craigcecil/vscode-design-in-browser-pack/images/icon.png",
+    "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#C80000",
         "theme": "dark"
