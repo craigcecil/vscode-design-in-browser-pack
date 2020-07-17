@@ -15,7 +15,7 @@
     ],
     "icon": "images/icon.png",
     "galleryBanner": {
-        "color": "#C80000",
+        "color": "#000000",
         "theme": "dark"
     },
     "license": "SEE LICENSE IN LICENSE.txt",
