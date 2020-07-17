@@ -17,10 +17,10 @@
     "galleryBanner": {
         "color": "#000000",
         "theme": "dark"
-    },
+    }, 
     "license": "SEE LICENSE IN LICENSE.txt",
     "bugs": {
-        "url": "https://www.github.com/craigcecil/vscode-design-in-browser-pack/LICENSE.txt",
+        "url": "https://www.github.com/craigcecil/vscode-design-in-browser-pack/issues",
         "email": "craig@craigcecil.com"
     },
     "repository": {
