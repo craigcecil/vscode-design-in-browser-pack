@@ -2,7 +2,7 @@
     "name": "vscode-design-in-browser-pack",
     "displayName": "Design in the Browser Extension Pack",
     "description": "A collection of best-in-class extensions for designing in the browser. Aimed at designers. Turns VSCode into an Integrated Design Environment.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "CraigCecil",
     "author": {
         "name": "Craig Cecil"
