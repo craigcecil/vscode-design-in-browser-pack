@@ -67,6 +67,8 @@ By installing Design in the Browser Extension Pack, the following extensions are
 
 - [📦 Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
     - Collaboratively design in real-time, including integrated audio and chat
+- [📦 Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard)
+    - A real-time collaborative whiteboard for Live Share sessions  
 
 ### UX Design Artifact Generation
 
