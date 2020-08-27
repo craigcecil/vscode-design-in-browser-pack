@@ -69,6 +69,7 @@
         "eventyret.bootstrap-4-cdn-snippet",
         "demijollamaxime.bulma",
         "leninp.materialize-snippets",
-        "lostintangent.vsls-whiteboard"
+        "lostintangent.vsls-whiteboard",
+        "vsls-contrib.spaces"
     ]
 }
