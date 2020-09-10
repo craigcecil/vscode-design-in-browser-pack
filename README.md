@@ -14,6 +14,8 @@ By installing Design in the Browser Extension Pack, the following extensions are
     - Modern, CSS framework based on FlexBox
 - [📦 Material Design ](https://marketplace.visualstudio.com/items?itemName=leninp.materialize-snippets)
     - Modern responsive front-end frameworks based on Material Design (Material 2, Materialize)
+- [📦 Ionic UI Components ](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets)
+    - Ionic UI components for desktop, mobile, and native apps
 - [📦 Office UI Fabric ](https://marketplace.visualstudio.com/items?itemName=sivarajanraju.vs-code-office-ui-fabric)
     - Simple components that focus on appearance and styling while showing the visual language of Microsoft Office
 - [📦 Semantic UI ](https://marketplace.visualstudio.com/items?itemName=4tron.semantic-ui-snippets)
@@ -31,6 +33,8 @@ By installing Design in the Browser Extension Pack, the following extensions are
     - Quickly insert icons from Font Awesome, Ionicons, Glyphicons, Octicons, and Material Design
 - [📦 Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
     - Auto-completes filenames as you design
+- [📦 Tailwind Docs](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
+    - Easily access the Tailwind prototyping documentation from within VSCode
 
 ### Live Design Previews
 

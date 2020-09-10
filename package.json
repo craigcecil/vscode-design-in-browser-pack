@@ -70,6 +70,8 @@
         "demijollamaxime.bulma",
         "leninp.materialize-snippets",
         "lostintangent.vsls-whiteboard",
-        "vsls-contrib.spaces"
+        "vsls-contrib.spaces",
+        "fivethree.vscode-ionic-snippets",
+        "austenc.tailwind-docs"
     ]
 }
