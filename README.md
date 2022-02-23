@@ -90,8 +90,6 @@ By installing Design in the Browser Extension Pack, the following extensions are
 
 - [📦 HTML Hint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
     - Checks the markup of your prototype as you create it
-- [📦 CSS Auto Prefix](https://marketplace.visualstudio.com/items?itemName=sporiley.css-auto-prefix)
-    - Automatically modifies your CSS to work across all browsers
 - [📦 Link Checker](https://marketplace.visualstudio.com/items?itemName=BillDietrich.linkcheckerhtml)
     - Reports on any broken links as you design
 - [📦 Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
