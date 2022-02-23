@@ -4,6 +4,10 @@ All notable changes to the "vscode-design-in-browser-pack" extension pack will b
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## Version 1.1
 
 - Initial release
+
+## Version 1.2
+
+- Removed `CSS Auto-Prefixer` extension, since all modern browsers now support CSS3 syntax.

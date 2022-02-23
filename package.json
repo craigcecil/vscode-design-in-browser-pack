@@ -2,7 +2,7 @@
     "name": "vscode-design-in-browser-pack",
     "displayName": "Design in the Browser Extension Pack",
     "description": "A collection of best-in-class extensions for designing in the browser. Aimed at designers. Turns VSCode into an Integrated Design Environment.",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "CraigCecil",
     "author": {
         "name": "Craig Cecil"
@@ -59,8 +59,7 @@
         "oderwat.indent-rainbow", 
         "raathigeshan.fabulous", 
         "searKing.preview-vscode",  
-        "sivarajanraju.vs-code-office-ui-fabric",
-        "sporiley.css-auto-prefix", 
+        "sivarajanraju.vs-code-office-ui-fabric", 
         "streetsidesoftware.code-spell-checker", 
         "tomoyukim.vscode-mermaid-editor", 
         "yuichinukiyama.vscode-preview-server",
