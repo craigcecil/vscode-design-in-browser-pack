@@ -25,8 +25,6 @@ By installing Design in the Browser Extension Pack, the following extensions are
 
 ### Rapid Prototyping
 
-- [📦 HTML Snippets ](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
-    - Rapid prototyping with HTML element entry
 - [📦 Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
     - Visual editing of CSS
 - [📦 Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
@@ -41,9 +39,6 @@ By installing Design in the Browser Extension Pack, the following extensions are
 - [📦 Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server)
     - Updates your prototype in your web browser automatically as you design
     - Great for large or two monitor setups
-- [📦 Live HTML Previewer](https://marketplace.visualstudio.com/items?itemName=hdg.live-html-previewer)
-    - View your prototype within VSCode as you design
-    - Great for seeing your mobile and desktop views at the same time
 - [📦 View in Browser](https://marketplace.visualstudio.com/items?itemName=koppt.vscode-view-in-browser)
     - Select which installed browser to view your page in
     - Great for viewing prototypes in multiple browsers at once
