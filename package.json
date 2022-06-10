@@ -2,7 +2,7 @@
     "name": "vscode-design-in-browser-pack",
     "displayName": "Design in the Browser Extension Pack",
     "description": "A collection of best-in-class extensions for designing in the browser. Aimed at designers. Turns VSCode into an Integrated Design Environment.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "CraigCecil",
     "author": {
         "name": "Craig Cecil"
@@ -41,13 +41,11 @@
     "homepage": "",
     "extensionPack": [ 
         "4tron.semantic-ui-snippets",
-        "abusaidm.html-snippets", 
         "BillDietrich.linkcheckerhtml", 
         "christian-kohler.path-intellisense", 
         "deerawan.vscode-faker", 
         "donjayamanne.githistory", 
         "harehare.textusm", 
-        "hdg.live-html-previewer", 
         "hediet.vscode-drawio",   
         "idleberg.icon-fonts", 
         "JakeWilson.vscode-placeholder-images",
