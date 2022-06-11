@@ -33,6 +33,8 @@ By installing Design in the Browser Extension Pack, the following extensions are
     - Auto-completes filenames as you design
 - [📦 Tailwind Docs](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
     - Easily access the Tailwind prototyping documentation from within VSCode
+- [📦 WindiCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=voorjaar.windicss-intellisense)
+    - Windi CSS is a next-generation utility-first, on-demand CSS framework, compatible with Tailwind.
 
 ### Live Design Previews
 

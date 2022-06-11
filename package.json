@@ -2,7 +2,7 @@
     "name": "vscode-design-in-browser-pack",
     "displayName": "Design in the Browser Extension Pack",
     "description": "A collection of best-in-class extensions for designing in the browser. Aimed at designers. Turns VSCode into an Integrated Design Environment.",
-    "version": "1.2.1",
+    "version": "1.21.0",
     "publisher": "CraigCecil",
     "author": {
         "name": "Craig Cecil"
@@ -69,6 +69,7 @@
         "lostintangent.vsls-whiteboard",
         "vsls-contrib.spaces",
         "fivethree.vscode-ionic-snippets",
-        "austenc.tailwind-docs"
+        "austenc.tailwind-docs",
+        "voorjaar.windicss-intellisense"
     ]
 }
