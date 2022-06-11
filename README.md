@@ -1,6 +1,7 @@
 # Design in the Browser Extension Pack
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+![](https://vsmarketplacebadge.apphb.com/version/CraigCecil.vscode-design-in-browser-pack.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/CraigCecil/vscode-design-in-browser-pack)
 
 Design in the Browser Extension Pack is a collection of best-of-breed extensions that transforms Visual Studio Code into an integrated design environment. Aimed at designers.
