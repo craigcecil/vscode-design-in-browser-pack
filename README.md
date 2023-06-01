@@ -12,50 +12,52 @@ By installing Design in the Browser Extension Pack, the following extensions are
 
 ### Built-in Design Systems
 
-- [📦 Bootstrap ](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
-    - Quickly create pages using Bootstrap 3, 4, or 5.
-- [📦 Bulma ](https://marketplace.visualstudio.com/items?itemName=demijollamaxime.bulma)
+- [📦 Bootstrap](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+    - Quickly create pages using Bootstrap 5.
+- [📦 Bulma](https://marketplace.visualstudio.com/items?itemName=demijollamaxime.bulma)
     - Modern, CSS framework based on FlexBox
-- [📦 Material Design ](https://marketplace.visualstudio.com/items?itemName=leninp.materialize-snippets)
+- [📦 Material Design](https://marketplace.visualstudio.com/items?itemName=leninp.materialize-snippets)
     - Modern responsive front-end frameworks based on Material Design (Material 2, Materialize)
-- [📦 Ionic UI Components ](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets)
+- [📦 Ionic UI Components](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets)
     - Ionic UI components for desktop, mobile, and native apps
-- [📦 Office UI Fabric ](https://marketplace.visualstudio.com/items?itemName=sivarajanraju.vs-code-office-ui-fabric)
+- [📦 Office UI Fabric](https://marketplace.visualstudio.com/items?itemName=sivarajanraju.vs-code-office-ui-fabric)
     - Simple components that focus on appearance and styling while showing the visual language of Microsoft Office
-- [📦 Semantic UI ](https://marketplace.visualstudio.com/items?itemName=4tron.semantic-ui-snippets)
+- [📦 Semantic UI](https://marketplace.visualstudio.com/items?itemName=4tron.semantic-ui-snippets)
     - Create beautiful, responsive layouts using human-friendly HTML
-- [📦 UIKit ](https://marketplace.visualstudio.com/items?itemName=Keno.uikit-3-snippets)
+- [📦 UIKit](https://marketplace.visualstudio.com/items?itemName=Keno.uikit-3-snippets)
     - Develop fast and powerful web interfaces
 
 ### Rapid Prototyping
 
-- [📦 Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
+- [📦 Fabulous](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
     - Visual editing of CSS
 - [📦 Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
     - Quickly insert icons from Font Awesome, Ionicons, Glyphicons, Octicons, and Material Design
 - [📦 Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
     - Auto-completes filenames as you design
+- [📦 Tachyons CSS Snippets](https://marketplace.visualstudio.com/items?itemName=thomasviaud.tachyons-snippets)
+    - Tachyons CSS utility library support. Built for designing. Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
+- [📦 Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+    - Tailwind autocomplete, syntax highlighting, and linting
 - [📦 Tailwind Docs](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
     - Easily access the Tailwind prototyping documentation from within VSCode
-- [📦 WindiCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=voorjaar.windicss-intellisense)
-    - Windi CSS is a next-generation utility-first, on-demand CSS framework, compatible with Tailwind.
 
 ### Live Design Previews
 
-- [📦 Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server)
+- [📦 Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
     - Updates your prototype in your web browser automatically as you design
     - Great for large or two monitor setups
 - [📦 View in Browser](https://marketplace.visualstudio.com/items?itemName=koppt.vscode-view-in-browser)
     - Select which installed browser to view your page in
     - Great for viewing prototypes in multiple browsers at once
 - [📦 Preview](https://marketplace.visualstudio.com/items?itemName=searKing.preview-vscode)
-    - Previews CSS style rules within VSCode
+    - Previews HTML, Markdown, and CSS style rules within VSCode
 - [📦 Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
     - Show image previews in the gutter and on hover
 
 ### Drag & Drop Prototyping
 
-- [📦 Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- [📦 Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
     - Drag & Drop prototyping within VSCode
     - Includes stencils for Bootstrap, Material Design, iOS, and Android
     - Embeds an offline version of Draw.io within VSCode

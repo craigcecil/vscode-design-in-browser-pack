@@ -4,10 +4,19 @@ All notable changes to the "vscode-design-in-browser-pack" extension pack will b
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## Version 1.1
+## Version 2.0.0
 
-- Initial release
+- Added GOV.UK Design System extension
+- Added the official Microsoft Live Preview extension (replaced the VSCode Preview Server extension)
+- Added Tailwind CSS Intellisense extension
+- Added Tachyons CSS Snippets extension
+- Removed 'Bootstrap 3' extension, 'cause Bootstrap 3 is old.
+- Removed 'WindiCSS IntelliSense extension, since Windi CSS is sunsetting
 
 ## Version 1.2
 
 - Removed `CSS Auto-Prefixer` extension, since all modern browsers now support CSS3 syntax.
+
+## Version 1.1
+
+- Initial release
