@@ -30,10 +30,10 @@ By installing Design in the Browser Extension Pack, the following extensions are
 
 - [📦 Fabulous](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
     - Visual editing of CSS
+- [📦 FlexBox Cheatsheet](https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet)
+    - An interactive playground and display of how to use CSS FlexBox to lay out elements on a page
 - [📦 Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
     - Quickly insert icons from Font Awesome, Ionicons, Glyphicons, Octicons, and Material Design
-- [📦 Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-    - Auto-completes filenames as you design
 - [📦 Tachyons CSS Snippets](https://marketplace.visualstudio.com/items?itemName=thomasviaud.tachyons-snippets)
     - Tachyons CSS utility library support. Built for designing. Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
 - [📦 Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
@@ -60,6 +60,9 @@ By installing Design in the Browser Extension Pack, the following extensions are
     - Drag & Drop prototyping within VSCode
     - Includes stencils for Bootstrap, Material Design, iOS, and Android
     - Embeds an offline version of Draw.io within VSCode
+- [📦 Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor)
+    - Quickly draw low-fidelity UI prototypes
+    - Includes libraries for design systems
 
 ### Quick Content Creation
 

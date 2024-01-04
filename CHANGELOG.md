@@ -2,7 +2,11 @@
 
 All notable changes to the "vscode-design-in-browser-pack" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## Version 2.1.0
+
+- Removed Path Intellisense extension, since it's now part of the base VS Code functionality
+- Added Excalidraw extension
+- Added CSS Flexbox Cheatsheet extension
 
 ## Version 2.0.0
 

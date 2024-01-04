@@ -2,7 +2,7 @@
     "name": "vscode-design-in-browser-pack",
     "displayName": "Design in the Browser Extension Pack",
     "description": "A collection of best-in-class extensions for designing in the browser. Aimed at designers. Turns VSCode into an Integrated Design Environment.",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "publisher": "CraigCecil",
     "author": {
         "name": "Craig Cecil"
@@ -10,16 +10,18 @@
     "keywords": [
         "snippets",
         "bootstrap",
-        "Bulma",
+        "material",
+        "bulma",
+        "tailwind",
         "HTML",
         "uikit",
         "preview",
         "mermaid",
-        "Collaboration",
-        "Sharing"
+        "collaboration",
+        "sharing"
     ],
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^1.6.0"
     },
     "categories": [
         "Extension Packs"
@@ -28,7 +30,7 @@
     "galleryBanner": {
         "color": "#000000",
         "theme": "dark"
-    }, 
+    },
     "license": "SEE LICENSE IN LICENSE.txt",
     "bugs": {
         "url": "https://www.github.com/craigcecil/vscode-design-in-browser-pack/issues",
@@ -39,27 +41,27 @@
         "url": "https://www.github.com/craigcecil/vscode-design-in-browser-pack"
     },
     "homepage": "",
-    "extensionPack": [ 
+    "extensionPack": [
         "4tron.semantic-ui-snippets",
-        "BillDietrich.linkcheckerhtml", 
-        "christian-kohler.path-intellisense", 
-        "deerawan.vscode-faker", 
-        "donjayamanne.githistory", 
-        "harehare.textusm", 
-        "hediet.vscode-drawio",   
-        "idleberg.icon-fonts", 
+        "BillDietrich.linkcheckerhtml",
+        "pomdtr.excalidraw-editor",
+        "deerawan.vscode-faker",
+        "donjayamanne.githistory",
+        "harehare.textusm",
+        "hediet.vscode-drawio",
+        "idleberg.icon-fonts",
         "JakeWilson.vscode-placeholder-images",
-        "Keno.uikit-3-snippets", 
-        "kisstkondoros.vscode-gutter-preview", 
-        "koppt.vscode-view-in-browser", 
-        "mkaufman.HTMLHint", 
-        "ms-vsliveshare.vsliveshare", 
-        "oderwat.indent-rainbow", 
-        "raathigeshan.fabulous", 
-        "searKing.preview-vscode",  
-        "sivarajanraju.vs-code-office-ui-fabric", 
-        "streetsidesoftware.code-spell-checker", 
-        "tomoyukim.vscode-mermaid-editor", 
+        "Keno.uikit-3-snippets",
+        "kisstkondoros.vscode-gutter-preview",
+        "koppt.vscode-view-in-browser",
+        "mkaufman.HTMLHint",
+        "ms-vsliveshare.vsliveshare",
+        "oderwat.indent-rainbow",
+        "raathigeshan.fabulous",
+        "searKing.preview-vscode",
+        "sivarajanraju.vs-code-office-ui-fabric",
+        "streetsidesoftware.code-spell-checker",
+        "tomoyukim.vscode-mermaid-editor",
         "ms-vscode.live-server",
         "AnbuselvanRocky.bootstrap5-vscode",
         "thekalinga.bootstrap4-vscode",
@@ -72,6 +74,7 @@
         "bradlc.vscode-tailwindcss",
         "austenc.tailwind-docs",
         "simonwhatley.govuk-design-system-snippets",
-        "thomasviaud.tachyons-snippets"
+        "thomasviaud.tachyons-snippets",
+        "dzhavat.css-flexbox-cheatsheet"
     ]
 }
