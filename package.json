@@ -2,7 +2,7 @@
     "name": "vscode-design-in-browser-pack",
     "displayName": "Design in the Browser Extension Pack",
     "description": "A collection of best-in-class extensions for designing in the browser. Aimed at designers. Turns VSCode into an Integrated Design Environment.",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "publisher": "CraigCecil",
     "author": {
         "name": "Craig Cecil"
@@ -21,7 +21,7 @@
         "sharing"
     ],
     "engines": {
-        "vscode": "^1.6.0"
+        "vscode": "^1.9.0"
     },
     "categories": [
         "Extension Packs"
@@ -54,7 +54,7 @@
         "Keno.uikit-3-snippets",
         "kisstkondoros.vscode-gutter-preview",
         "koppt.vscode-view-in-browser",
-        "mkaufman.HTMLHint",
+        "htmlhint.vscode-htmlhint",
         "ms-vsliveshare.vsliveshare",
         "oderwat.indent-rainbow",
         "raathigeshan.fabulous",
@@ -63,9 +63,7 @@
         "streetsidesoftware.code-spell-checker",
         "tomoyukim.vscode-mermaid-editor",
         "ms-vscode.live-server",
-        "AnbuselvanRocky.bootstrap5-vscode",
-        "thekalinga.bootstrap4-vscode",
-        "eventyret.bootstrap-4-cdn-snippet",
+        "hansuxdev.bootstrap5-snippets",
         "demijollamaxime.bulma",
         "leninp.materialize-snippets",
         "lostintangent.vsls-whiteboard",
@@ -75,6 +73,8 @@
         "austenc.tailwind-docs",
         "simonwhatley.govuk-design-system-snippets",
         "thomasviaud.tachyons-snippets",
-        "dzhavat.css-flexbox-cheatsheet"
+        "dzhavat.css-flexbox-cheatsheet",
+        "tldraw-org.tldraw-vscode",
+        "n3rds-inc.image"
     ]
 }
