@@ -3,7 +3,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Last Commit](https://img.shields.io/github/last-commit/CraigCecil/vscode-design-in-browser-pack)
 
-Design in the Browser Extension Pack is a collection of best-of-breed extensions that transforms Visual Studio Code into an integrated design environment. Aimed at designers.
+Design in the Browser Extension Pack is a collection of best-of-breed extensions that transforms Visual Studio Code into an integrated design environment. Aimed at designers, but useful for devs as well.
 
 ## Extensions Included
 
@@ -11,19 +11,23 @@ By installing Design in the Browser Extension Pack, the following extensions are
 
 ### Built-in Design Systems
 
-- [📦 Bootstrap](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+- 📦 [Bootstrap](https://marketplace.visualstudio.com/items?itemName=HansUXdev.bootstrap5-snippets)
     - Quickly create pages using Bootstrap 5.
-- [📦 Bulma](https://marketplace.visualstudio.com/items?itemName=demijollamaxime.bulma)
+- 📦 [Bulma](https://marketplace.visualstudio.com/items?itemName=demijollamaxime.bulma)
     - Modern, CSS framework based on FlexBox
-- [📦 Material Design](https://marketplace.visualstudio.com/items?itemName=leninp.materialize-snippets)
+- 📦 [GOV.UK](https://marketplace.visualstudio.com/items?itemName=simonwhatley.govuk-design-system-snippets)
+    - Build UK Government digital services quickly
+- 📦 [Material Design](https://marketplace.visualstudio.com/items?itemName=leninp.materialize-snippets)
     - Modern responsive front-end frameworks based on Material Design (Material 2, Materialize)
-- [📦 Ionic UI Components](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets)
+- 📦 [Ionic UI Components](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets)
     - Ionic UI components for desktop, mobile, and native apps
-- [📦 Office UI Fabric](https://marketplace.visualstudio.com/items?itemName=sivarajanraju.vs-code-office-ui-fabric)
+- 📦 [Office UI Fabric](https://marketplace.visualstudio.com/items?itemName=sivarajanraju.vs-code-office-ui-fabric)
     - Simple components that focus on appearance and styling while showing the visual language of Microsoft Office
-- [📦 Semantic UI](https://marketplace.visualstudio.com/items?itemName=4tron.semantic-ui-snippets)
+- 📦 [Semantic UI](https://marketplace.visualstudio.com/items?itemName=4tron.semantic-ui-snippets)
     - Create beautiful, responsive layouts using human-friendly HTML
-- [📦 UIKit](https://marketplace.visualstudio.com/items?itemName=Keno.uikit-3-snippets)
+- 📦 [Shopify Polaris](https://marketplace.visualstudio.com/items?itemName=shopify.polaris-for-vscode)
+    - Build pages and components quickly with the Shopify Polaris design system
+- 📦 [UIKit](https://marketplace.visualstudio.com/items?itemName=Keno.uikit-3-snippets)
     - Develop fast and powerful web interfaces
 
 ### Rapid Prototyping
@@ -50,7 +54,7 @@ By installing Design in the Browser Extension Pack, the following extensions are
     - Select which installed browser to view your page in
     - Great for viewing prototypes in multiple browsers at once
 - [📦 Preview](https://marketplace.visualstudio.com/items?itemName=searKing.preview-vscode)
-    - Previews HTML, Markdown, and CSS style rules within VSCode
+    - Previews HTML, Markdown, Mermaid, and CSS style rules within VSCode
 - [📦 Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
     - Show image previews in the gutter and on hover
 
@@ -63,6 +67,8 @@ By installing Design in the Browser Extension Pack, the following extensions are
 - [📦 Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor)
     - Quickly draw low-fidelity UI prototypes
     - Includes libraries for design systems
+- [📦 tldDraw](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode)
+    - Quickly create drawings, diagrams, or visual documentation
 
 ### Quick Content Creation
 
@@ -71,6 +77,9 @@ By installing Design in the Browser Extension Pack, the following extensions are
 - [📦 Placeholder images](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images)
     - Quickly generate and insert placeholder images into your designs
     - Great for wireframing or lo-fi prototypes
+- [📦 Image Resizing & Conversion](https://marketplace.visualstudio.com/items?itemName=n3rds-inc.image)
+    - Quickly resize images
+    - Convert images to Webp, Avif, JPEG, or PNG formats
 
 ### Collaboration
 
@@ -108,7 +117,7 @@ Each extension mentioned above is a separate open-source project and has its own
 
 ## Want to See Your Extension Added?
 
-Open an Issue or Pull Request and I'll take a look.
+Open an [Issue](https://github.com/craigcecil/vscode-design-in-browser-pack/issues) or [Pull Request](https://github.com/craigcecil/vscode-design-in-browser-pack/pulls) and I'll take a look.
 
 ## License
 
